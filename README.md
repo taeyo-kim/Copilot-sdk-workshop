@@ -85,8 +85,8 @@ GitHub Copilot을 편집기(IDE) 안에서 사용하는 것과 Copilot SDK를 �
 먼저 실습에 사용할 저장소를 로컬로 clone 합니다.
 
 ```bash
-git clone https://github.com/taeyo-kim/copilot-sdk-github-issue-analyser
-cd copilot-sdk-github-issue-analyser
+git clone https://github.com/taeyo-kim/Copilot-sdk-workshop
+cd Copilot-sdk-workshop
 ```
 
 그 다음, Visual Studio Code에서 [Prerequisite.ipynb](Prerequisite.ipynb)부터 시작해 보세요. 단계별로 필요한 설정과 실행 방법이 안내되어 있습니다. 사전준비가 끝나면, [lab.ipynb](lab.ipynb)에서 실제 애플리케이션 구현 과정을 따라가 볼 수 있습니다.
