@@ -79,7 +79,17 @@ GitHub Copilot을 편집기(IDE) 안에서 사용하는 것과 Copilot SDK를 �
 - 사람 검토를 포함한 안전한 write-back 흐름
 
 ## 실습
-실습은 [Prerequisite.ipynb](Prerequisite.ipynb)에서 시작해 보세요. 단계별로 필요한 설정과 실행 방법이 안내되어 있습니다. 사전준비가 끝나면, [lab.ipynb](lab.ipynb)에서 실제 애플리케이션 구현 과정을 따라가 볼 수 있습니다.
+
+### 저장소 clone
+
+먼저 실습에 사용할 저장소를 로컬로 clone 합니다.
+
+```bash
+git clone https://github.com/taeyo-kim/copilot-sdk-github-issue-analyser
+cd copilot-sdk-github-issue-analyser
+```
+
+그 다음, Visual Studio Code에서 [Prerequisite.ipynb](Prerequisite.ipynb)부터 시작해 보세요. 단계별로 필요한 설정과 실행 방법이 안내되어 있습니다. 사전준비가 끝나면, [lab.ipynb](lab.ipynb)에서 실제 애플리케이션 구현 과정을 따라가 볼 수 있습니다.
 
 1. [Prerequisite.ipynb](Prerequisite.ipynb)에서 환경 설정과 의존성 설치를 완료합니다.
 2. [lab.ipynb](lab.ipynb)에서 단계별로 코드를 작성하며 애플리케이션을 완성합니다.
